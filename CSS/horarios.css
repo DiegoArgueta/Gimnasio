@@ -1,0 +1,50 @@
+body{
+    background-color: #161717;
+}
+h1{
+    color:rgb(103, 143, 25);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 60px;
+}
+.logo{
+    position: fixed;
+    left: 40px;
+    top: 0px;
+    border:none;
+    border-radius: 5px;
+}
+table,th,td{
+margin:0;
+left:auto;
+right: auto;
+border: 1px solid yellow;
+border-collapse: collapse;
+font-size: 40px;
+color: yellowgreen;
+background-color: black;
+text-align: center;
+}
+table{
+    width: 1200px;
+    height: 300px;
+    border-radius: 5px;
+    position: fixed;
+    right: 80px;
+}
+#volver{
+    position: fixed;
+    bottom: 100px;
+    right: 500px;
+    color:white;
+    background-color: black;
+    border:1px solid yellowgreen;
+    padding: 30px 70px; 
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+#volver:hover{
+    opacity: 0.5;
+}

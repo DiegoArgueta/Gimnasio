@@ -1,0 +1,53 @@
+body{
+    background-color: #161717;
+}
+.logo{
+    position: fixed;
+    left: 40px;
+    border:none;
+    border-radius: 5px;
+}
+.logo2{
+    position: fixed;
+    right: -300px;
+    top:0px;
+    border:none;
+    border-radius: 5px;
+}
+.logo:hover{
+    opacity: 0.5;
+}
+.logo2:hover{
+    opacity: 0.5;
+}
+h1{
+    text-align: left;
+    font-family: fantasy;
+    color: yellowgreen;
+    font-size: 65px;
+}
+p{
+    text-align: center;
+    font-family: fantasy;
+    color: yellowgreen; 
+    font-size: 25px;
+}
+.cuerpo{
+    width:800px;
+    position: fixed;
+    bottom: 100px;
+    left: 40px;
+    display: flex;
+
+}
+video{
+    position:fixed;
+    right: 100px;
+    bottom: 10px;
+}
+a{
+    color:yellowgreen;
+}
+a:hover{
+    color:red;
+}

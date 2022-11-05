@@ -1,0 +1,43 @@
+body{
+    background-color: #161717;
+}
+h1{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+h2{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a{
+    color:white;
+    font-size: 250%;
+}
+a:hover{
+    color:red;
+}
+.logo{
+    position: fixed;
+    right: -300px;
+    border:none;
+    border-radius: 5px;
+}
+.numeros{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: x-large;
+}
+.desarrolador{
+    position: fixed;
+    right: 200px;
+    top:300px;
+}
+.propio{
+    color: whitesmoke;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+}
+#volver{
+    font-size: 20px;
+}
